@@ -1,5 +1,6 @@
 Fork of Plutus Hybrid from alwaysminingbtc with a pickled database included
 =====================
+https://github.com/alwaysminingbtc/plutushybrid
 
 A Hybrid tool of the Plutus Bitcoin Brute Forcer - all credit for this goes to https://github.com/Isaacdelly/Plutus.
 ====================================
